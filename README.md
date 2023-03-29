@@ -3,19 +3,19 @@ Trang web tin tức
 
 How to run NewsPortal Project
 
-1. Download the the zip file
+ 1. Download the the zip file
 
-2. Extract the file and copy newsportal folder
+ 2. Extract the file and copy newsportal folder
 
-3.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
+ 3.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
 
-4. Create a database with name newsportal
+ 4. Create a database with name newsportal
 
-5. Import newsportal.sql file(given inside the zip package in sql file folder)
+ 5. Import newsportal.sql file(given inside the zip package in sql file folder)
 
-6.run the script http://localhost/newsportal (frontend)
+ 6.run the script http://localhost/newsportal (frontend)
 
-7. For admin panel  http://localhost/newsporta/admin
+ 7. For admin panel  http://localhost/newsporta/admin
 
 
 credential for admin panel :
